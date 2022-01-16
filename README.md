@@ -1,2 +1,4 @@
-# classDesign
-Code from class design in java and python
+# Class design
+Class design in java
+
+![](https://imgur.com/jF9zBhb.png)
